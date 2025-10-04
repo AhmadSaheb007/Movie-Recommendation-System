@@ -1,5 +1,3 @@
-# Read the main readme file, please
-
 # Movie Recommendation System
 
 This system implements two different approaches for movie recommendations:
@@ -107,3 +105,4 @@ python app.py
 - Gradio
 - Matplotlib
 - Seaborn#
+
